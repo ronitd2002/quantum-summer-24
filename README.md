@@ -1,1 +1,1 @@
-# Paid intern Quantum computing
+# Britant Summer Intern
